@@ -18,3 +18,11 @@
 
 </p>
 
+### OUTPUT for EmpAgeCal:
+
+
+<p align="center">
+
+<img width="800" height="500" src="https://user-images.githubusercontent.com/60919132/96144783-2cceff00-0f22-11eb-9509-c1779ec3838e.png" >
+
+</p>
